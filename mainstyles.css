@@ -1,5 +1,6 @@
 body {
-  backgound-color:blue;
+  backgound-color: lightblue;
+  opacity: 0.3;
 }
 h1 {
   color: navy;
